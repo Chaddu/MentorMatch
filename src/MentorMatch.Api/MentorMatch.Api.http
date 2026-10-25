@@ -1,0 +1,6 @@
+@MentorMatch.Api_HostAddress = http://localhost:5252
+
+GET {{MentorMatch.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

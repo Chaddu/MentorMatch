@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MentorMatch.Api/MentorMatch.Api.csproj" />
+    <Project Path="src/MentorMatch.Application/MentorMatch.Application.csproj" />
+    <Project Path="src/MentorMatch.Domain/MentorMatch.Domain.csproj" />
+    <Project Path="src/MentorMatch.Infrastructure/MentorMatch.Infrastructure.csproj" />
+  </Folder>
+</Solution>
